@@ -1,7 +1,7 @@
 ![logo](https://github.com/Divyanshu-Mishra-24/Divyanshu-Mishra-24/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Divyanshu Mishra</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu-mishra-24&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu-mishra-24" /> </p>
 
 - 📫 How to reach me **divyanshu.mishra2403@gmail.com**
