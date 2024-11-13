@@ -43,8 +43,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-mishra-24&show_icons=true&locale=en&layout=compact" alt="divyanshu-mishra-24" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-Mishra-24&show_icons=true&theme=dark&include_all_commits=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-mishra-24&show_icons=true&locale=en" alt="divyanshu-mishra-24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-mishra-24&" alt="divyanshu-mishra-24" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-Mishra-24&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Divyanshu-Mishra-24&layout=compact&theme=radical)
+
