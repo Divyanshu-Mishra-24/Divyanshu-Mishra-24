@@ -33,6 +33,15 @@
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+</a>
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   </a>
