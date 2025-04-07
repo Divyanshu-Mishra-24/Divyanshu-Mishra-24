@@ -56,6 +56,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
+  <a href="https://www.wix.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wix.svg" alt="Wix" height="30" width="40" />
+</a>
 </p>
 
 
